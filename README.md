@@ -26,4 +26,4 @@ directional -0.3 0.2 -0.5 0.8 0.9 0.3
 ```
 ![Image](cornell_directional.png)
 ![Image](cornell.png)
-- We make the light color yellow so that we can clearly see the effect
+- We make the light color yellow so that we can clearly see the effect that the light project to the cube and sphere, and there are shadows on the background, and because of the direction of the light, the red wall became a bit brighter.
