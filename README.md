@@ -1,6 +1,9 @@
 # CSE 168 HW2 extra credit
 
 ## Reduce Variance
+- In order to reduce variance, we no longer choose random points but choos the center point of each stratum (except visibility), thus other variables involve the point on light will also change. It's hard to see on a sigle graph for the reduce variance, so below is the link of UCSD online that record our low variance graphs:
+[UCSD online low variance](https://raviucsdgroup.s3.amazonaws.com/homework2/8f413eb1973ecc987b84bdeda0340468/20240426041609/index.html)
+It shows that our variance is lower than the expected variance. (And can see there is a trade-off between bias and variance)
 
 
 
